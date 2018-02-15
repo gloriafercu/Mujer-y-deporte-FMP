@@ -1,6 +1,6 @@
 # Mujer y Deporte (Fundación de Mujeres Progresistas)
 
-Web colaborativa en colaboración con Fundación de Mujeres Progresistas creada para visibilizar el papel de la mujer en el deporte. Esta web se ha creado usando el framework Bootstrap, JavaScript, SASS y Gulp como herramienta de automatización de tareas.
+Web colaborativa en colaboración con Fundación de Mujeres Progresistas creada para visibilizar el papel de la mujer en el deporte. Esta web se ha creado usando el framework Bootstrap, JavaScript, CSS mediante Sass, animaciones y transiciones y Gulp como herramienta de automatización de tareas.
 
 __Componentes del equipo:__
 
